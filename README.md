@@ -3,4 +3,4 @@
 [📚 Portfolio](https://romainneup.github.io/)
 
 - 🎓 Master in software development
-- 🔭 Working at [Digitech](https://equativ.com)
+- 💼 Working at [Equativ](https://equativ.com)
